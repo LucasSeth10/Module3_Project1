@@ -1,0 +1,47 @@
+div.relative {
+    position: relative;
+    right: 40px;
+    border: 4px solid blue;
+}
+
+div.fixed {
+    position: fixed;
+    right: 50px;
+    border: 5px solid purple;
+}
+
+div.absolute {
+    position: absolute;
+    right: 30px;
+    border: 5px solid red;
+}
+
+div.static {
+    position: static;
+    right: 45px;
+    border: 1px solid aqua;
+}
+
+div {
+    color: purple;
+}
+
+div.first {
+    opacity: 0.1;
+}
+
+div.second {
+    opacity:0.2;
+}
+
+div.third {
+    opacity: 0.3;
+}
+
+div.fourth {
+    opacity: 0.4;
+}
+
+div.fifth {
+    opacity: 0.5;
+}
